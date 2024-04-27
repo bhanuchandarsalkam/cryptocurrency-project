@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/cryptocurrency-project/static/css/main.08116b87.css",
+    "main.js": "/cryptocurrency-project/static/js/main.665cfae9.js",
+    "static/media/gradient 1.png": "/cryptocurrency-project/static/media/gradient 1.f9c79db9cdc85dfd1f25.png",
+    "static/media/phone 1.png": "/cryptocurrency-project/static/media/phone 1.2710c18e840c73b30647.png",
+    "index.html": "/cryptocurrency-project/index.html",
+    "main.08116b87.css.map": "/cryptocurrency-project/static/css/main.08116b87.css.map",
+    "main.665cfae9.js.map": "/cryptocurrency-project/static/js/main.665cfae9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.08116b87.css",
+    "static/js/main.665cfae9.js"
+  ]
+}
