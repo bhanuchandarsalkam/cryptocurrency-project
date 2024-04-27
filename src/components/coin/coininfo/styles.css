@@ -1,0 +1,6 @@
+.coininfo-desc a{
+ text-decoration:underline;
+}
+.coininfo-desc a:hover{
+    color:var(--blue);
+   }
